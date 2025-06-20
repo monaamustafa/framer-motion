@@ -26,14 +26,10 @@ const Hero = () => {
           transition={{ duration: 1, delay: 0.3 }}
           className="text-right"
         >
-          <h2 className="font-[200] text-[90px]">LUNDEV</h2>
+          <h2 className="font-[200] text-[90px]">Mona Mustafa</h2>
           <div>
             <p>Web Design</p>
-            <p>
-              Don&apos;t forget to subscribe to the channel to continuously
-              <br />
-              update interesting videos
-            </p>
+            
           </div>
         </motion.div>
       </div>
